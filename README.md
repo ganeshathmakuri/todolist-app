@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Project Structure
-- **Source Code:** Available in this repository (`/src` folder).
+- **Source Code:** Available in this repository (`` folder).
 - **README File:** This file (`README.md`).
 - **Screenshots:** See below.
 - **Output Images:** Included in `/outputs`.
